@@ -11,7 +11,11 @@
 
 # Tela de redefinir senha
 ![](https://github.com/ednaldojunior276/EducaTec/blob/master/Front%20end%20-%20Educatec/Redefinir%20senha.PNG)
+
 # Tela de cursos
+![](https://github.com/ednaldojunior276/EducaTec/blob/master/Front%20end%20-%20Educatec/Cursos.PNG)
+
+# cursos
 ![](https://github.com/ednaldojunior276/EducaTec/blob/master/Front%20end%20-%20Educatec/CursoJava.PNG)
 
 # Sobre o curso
